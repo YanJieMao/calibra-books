@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a09a60b5-5c19-4d30-813c-43f1e8507b77</dc:identifier>
+        <dc:title>精力管理：管理精力，而非时间 互联网+时代顺势腾飞的关键</dc:title>
+        <dc:creator opf:file-as="吉姆·洛尔 (jim Loehr) &amp; 托尼·施瓦茨 (tony Schwartz)" opf:role="aut">吉姆·洛尔 (jim Loehr)</dc:creator>
+        <dc:creator opf:file-as="吉姆·洛尔 (jim Loehr) &amp; 托尼·施瓦茨 (tony Schwartz)" opf:role="aut">托尼·施瓦茨 (tony Schwartz)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-08-01T06:48:29.201000+00:00</dc:date>
+        <dc:description>《精力管理》是一本能让你的新年愿望实现的书！
+重磅畅销书，全新制作回归，满满全是干货！
+不是时间不够用，而是精力没管好！
+我们期待改变的发生，却往往发现自己在原地挣扎。
+每一天的时间量是固定不变的，但是我们可用的精力的储备和质量却可以改变。认识到这一事实就会让你拥有颠覆生活方式的力量。
+稍微调整你的早餐，整个上午就会表现更好；抽五分钟做几个动作，下午的工作很有可能提前结束；花点时间重拾过去的兴趣爱好，你会发现生活重新变得新鲜有趣……而所有这些看得见效果的改变，都需要积极的仪式习惯支持，让你的精力得到恢复和重生，为迎接下一次挑战准备好信心与实力。
+吉姆•洛尔和托尼•施瓦茨的全情投入精力训练系统曾帮助他们在高压竞争的环境下取得上佳表现。随后他们又将这一系统成功应用到普通人的精力管理培训中，遵循书中的理念和步骤，你的生活会出现如下变化：
+轻松调动四种精力源：体能、情感、思维、意志
+驾驭劳逸结合的生命脉动节奏
+和精英运动员一样系统发展自己的能力
+建立起高度精确、积极的精力管理习惯</dc:description>
+        <dc:publisher>中国青年出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787515333564</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">01ed25b2-d8b6-4e7d-81f8-07477dfeaa1e</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>个人管理</dc:subject>
+        <dc:subject>时间管理</dc:subject>
+        <dc:subject>个人提升</dc:subject>
+        <dc:subject>自我管理</dc:subject>
+        <dc:subject>成长</dc:subject>
+        <dc:subject>思维</dc:subject>
+        <dc:subject>生活</dc:subject>
+        <dc:subject>管理</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;吉姆·洛尔 (jim Loehr)&quot;: &quot;&quot;, &quot;托尼·施瓦茨 (tony Schwartz)&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-09-03T15:39:15.717487+00:00"/>
+        <meta name="calibre:title_sort" content="精力管理：管理精力，而非时间 互联网+时代顺势腾飞的关键"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

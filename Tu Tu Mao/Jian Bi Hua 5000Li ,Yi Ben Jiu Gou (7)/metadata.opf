@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6728bf69-8dba-4ddc-880f-0ba8e19d97ca</dc:identifier>
+        <dc:title>简笔画5000例，一本就够</dc:title>
+        <dc:creator opf:file-as="涂涂猫" opf:role="aut">涂涂猫</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-07-31T16:00:00+00:00</dc:date>
+        <dc:publisher>人民邮电出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00YQRZQDO</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;涂涂猫&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-09-22T19:19:24.851915+00:00"/>
+        <meta name="calibre:title_sort" content="简笔画5000例，一本就够"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2505ea63-fad3-4fe9-bc86-b9a8f6979023</dc:identifier>
+        <dc:title>365 Games &amp; Puzzles to Keep Your Mind Sharp</dc:title>
+        <dc:creator opf:file-as="Chamberlain, Kim" opf:role="aut">Kim Chamberlain</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-06-14T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;B&gt;Short and Fun Activities Designed to Train and Maintain Your Brain&lt;/B&gt;&lt;BR&gt;Taking care of your brain is just as beneficial as taking care of the rest of your body&amp;#8212;research has shown that training games help improve memory, concentration, problem-solving skills, processing speed, creativity, and reasoning. &lt;I&gt;365 Games &amp; Puzzles to Keep Your Mind Sharp&lt;/I&gt; provides a year's worth of challenging mental activities to keep your brain sharp and flexible.&lt;BR&gt;Chamberlain's fresh new installment uses the same format as &lt;I&gt;The Five-Minute Brain Workout&lt;/I&gt;: a variety of games and puzzles, each with ten examples that increase in difficulty as you work through the book. This collection includes some fan favorites along with many new and exciting puzzles that will further develop your skills.&lt;BR&gt;&lt;I&gt;365 Games &amp; Puzzles to Keep Your Mind Sharp&lt;/I&gt; is perfect for lovers of word and language games and puzzles, providing enough short, sharp exercises for a year's worth of fun and brain...</dc:description>
+        <dc:publisher>Skyhorse Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781634509565</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Kim Chamberlain&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-06-08T23:24:09+00:00"/>
+        <meta name="calibre:title_sort" content="365 Games &amp; Puzzles to Keep Your Mind Sharp"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

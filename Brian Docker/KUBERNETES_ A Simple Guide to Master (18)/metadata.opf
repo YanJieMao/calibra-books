@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a2a47384-7973-4017-a55d-ea8f676dbe09</dc:identifier>
+        <dc:title>KUBERNETES: A Simple Guide to Master Kubernetes for Beginners and Advanced Users (2020 Edition)</dc:title>
+        <dc:creator opf:file-as="Docker, Brian" opf:role="aut">Brian Docker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-05-14T21:00:00+00:00</dc:date>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Brian Docker&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-10-22T21:26:47.111773+00:00"/>
+        <meta name="calibre:title_sort" content="KUBERNETES: A Simple Guide to Master Kubernetes for Beginners and Advanced Users (2020 Edition)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

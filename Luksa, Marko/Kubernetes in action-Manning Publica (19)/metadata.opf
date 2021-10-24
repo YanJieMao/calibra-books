@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0577d3d4-688c-4fa4-b5a2-c6920e5b3ba8</dc:identifier>
+        <dc:title>Kubernetes in action-Manning Publications (2017 2018)</dc:title>
+        <dc:creator opf:file-as="Luksa, Marko" opf:role="aut">Luksa, Marko</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>zh</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Luksa, Marko&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-10-22T21:29:34.129062+00:00"/>
+        <meta name="calibre:title_sort" content="Kubernetes in action-Manning Publications (2017 2018)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a5d41cf1-2cbe-4e45-b0bc-7d2a681d83e9</dc:identifier>
+        <dc:title>Linux命令行大全</dc:title>
+        <dc:creator opf:file-as="[美]William E. Shotts, Jr" opf:role="aut">Jr [美]William E. Shotts</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-02-28T16:00:00+00:00</dc:date>
+        <dc:description>本书主要介绍Linux命令行的使用，循序渐进，深入浅出，引导读者全面掌握命令行的使用方法。 本书分为四部分。第一部分开始了对命令行基本语言的学习之旅，包括命令结构、文件系统的导引、命令行的编辑以及关于命令的帮助系统和使用手册。第二部分主要讲述配置文件的编辑，用于计算机操作的命令行控制。第三部分讲述了从命令行开始执行的常规任务。类UNIX操作系统，比如Linux，包含了很多“经典的”命令行程序，这些程序可以高效地对数据进行操作。第四部分介绍了shell编程，这是一个公认的初级技术，并且容易学习，它可以使很多常见的系统任务自动运行。通过学习shell编程，读者也可以熟悉其他编程语言的使用。 本书适合从其他平台过渡到Linux的新用户和初级Linux服务器管理员阅读。没有任何Linux基础和Linux编程经验的读者，也可以通过本书掌握Linux命令行的使用方法。</dc:description>
+        <dc:publisher>人民邮电出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B01ASYWV1S</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Jr [美]William E. Shotts&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-10-22T19:36:25.139950+00:00"/>
+        <meta name="calibre:title_sort" content="Linux命令行大全"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

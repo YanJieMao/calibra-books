@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5d3cba66-3e0d-4562-b229-07a90db5d1d0</dc:identifier>
+        <dc:title>Show Your Work</dc:title>
+        <dc:creator opf:file-as="Bozarth, Jane" opf:role="aut">Bozarth, Jane</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-04-21T00:00:00+00:00</dc:date>
+        <dc:publisher>Wiley</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781118864012</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Bozarth, Jane&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-10-09T16:35:46.695977+00:00"/>
+        <meta name="calibre:title_sort" content="Show Your Work"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

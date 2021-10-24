@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">41c9ca40-3b0c-4e3e-be6e-2f8dcacbc493</dc:identifier>
+        <dc:title>数据结构与算法</dc:title>
+        <dc:creator opf:file-as="Ranum;北大地空数算课程, B N. Miller;D L." opf:role="aut">B N. Miller;D L. Ranum;北大地空数算课程</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-06-13T09:43:28+00:00</dc:date>
+        <dc:language>zh</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;B N. Miller;D L. Ranum;北大地空数算课程&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-10-16T11:33:06.904161+00:00"/>
+        <meta name="calibre:title_sort" content="数据结构与算法"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

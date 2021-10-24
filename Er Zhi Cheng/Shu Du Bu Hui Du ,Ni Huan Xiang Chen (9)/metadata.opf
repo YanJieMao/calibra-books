@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a856badc-ad5f-48b9-bef3-a7c51c50fcaa</dc:identifier>
+        <dc:title>书都不会读,你还想成功</dc:title>
+        <dc:creator opf:file-as="二志成" opf:role="aut">二志成</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-03-31T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">4deb3997-8c92-4165-a7bd-daa76ae83f8a</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;二志成&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-10-10T09:05:14.509303+00:00"/>
+        <meta name="calibre:title_sort" content="书都不会读,你还想成功"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>
